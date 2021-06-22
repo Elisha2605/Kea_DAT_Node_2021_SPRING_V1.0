@@ -9,3 +9,7 @@
 #main-content {
     min-height: calc(100vh - 125px);
 }
+
+.project-title {
+    color: red;
+}

@@ -16,7 +16,7 @@
         const projectDescription = document.createElement("p");
         projectDescription.classList.add("project-description");
         projectDescription.innerText = project.description;
-
+  
         projectDiv.appendChild(projectTitle);
         projectDiv.appendChild(projectDescription);
         projectsDiv.appendChild(projectDiv);
